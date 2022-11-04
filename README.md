@@ -2,11 +2,11 @@ install node modules to run the project
 
 in terminal type npm start to run the project
 
-Functionality added till now
-Get all organizations
-Add person with or without organization
-Get all persons which are reside in company
-Add Deal => you can check the schema that which fiels are required
+Functionality added till now  
+Get all organizations  
+Add person with or without organization    
+Get all persons which are reside in company  
+Add Deal => you can check the schema that which fiels are required  
 
 <!-- # Serverless - AWS Node.js Typescript
 
